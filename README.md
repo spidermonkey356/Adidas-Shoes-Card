@@ -16,4 +16,4 @@ Thanks for checking out this code out.
 
 ## Tools used
 
-VSCode, Vanilla HTMl and CSS written from ground up, no libraries.
+VSCode, Vanilla HTML and CSS created from ground up, no libraries.
